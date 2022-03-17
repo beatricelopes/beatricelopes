@@ -5,7 +5,7 @@
 **beatricelopes/beatricelopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="left">--> 
   I'm Bits.<br>
-  I'm a currently <strong>DBA</strong> stutend.
+  I'm a currently <strong>DBA</strong> student.
 </p>
 
 <!--Here are some ideas to get you started:
