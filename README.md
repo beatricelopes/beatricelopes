@@ -4,36 +4,15 @@
 <!--
 **beatricelopes/beatricelopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="left">--> 
-  I'm Bits.<br>
+ 👾 I'm Bits.<br>
   <strong>DBA</strong> student.<br>
-  🌱 I’m currently learning <br>
-     - Python<br>
-     - SQL<br>
-     - Power BI<br>
-     - Jira<br>
-     - Git/Github<br>
+</p>
+<p align="left">
+  📬 Email: beatrice.correa@fatec.sp.gov.br <br>
 </p>
 
-<!--Here are some ideas to get you started:
-<p align="left">
-  - 🐾 I’m currently learning ... <br>
-  - 🐾   Programming languages: Python, MySql, C#, javascript</strong><br>
-  - 🐾 Tools: <strong>PowerBi, Trello, Git, Github, Gitlab</strong>
-</p>
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="left">
-  💌 Email: beatrice.correa@fatec.sp.gov.br 
-</p>
+<!-- emojis I like
+🪐 :electron:  :octocat: 🐸 🦋 🌸 🌵 ☂️ 🌈 🎀 🏅 ⚜️   -->
 
 <p align="left">
 
