@@ -9,7 +9,6 @@
 ! everybody's friend, loves cute stuff
 # 📖 Programming languages, data structures, web development
 ```
-#### ꒰ *[bebe.dev](https://beabeabee.carrd.co)* ꒱
 
 <h1 align="center">﹔ ☽</h1>
 <p align="center">
