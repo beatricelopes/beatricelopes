@@ -1,12 +1,12 @@
-<img align="left" height="200" src="assets/computerart.gif"/>
+<img align="left" height="200" src="assets/bea2.png"/>
 
 ```diff
 ⊬ Hello there, I'm Bea
 
 @@east is up@@
-+ I'm currently studying javascript and building my own projects
++ I'm currently studying angular and building my own projects
 - 24 years old
-! everybody's friend, loves cute stuff
+! everybody's friend, loves cute stuff 
 # 📖 Programming languages, data structures, web development
 ```
 
