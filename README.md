@@ -1,4 +1,4 @@
-<img align="left" height="200" src="assets/bea2.png"/>
+<!-- <img align="left" height="200" src="assets/bea2.png"/> -->
 
 ```diff
 ⊬ Hello there, I'm Bea
@@ -7,7 +7,7 @@
 + I'm currently studying angular and building my own projects
 - 24 years old
 ! everybody's friend, loves cute stuff 
-# 📖 Programming languages, data structures, web development
+# 📖 Programming languages, web development, service now
 ```
 
 <h1 align="center">﹔ ☽</h1>
