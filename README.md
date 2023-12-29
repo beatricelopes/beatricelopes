@@ -2,12 +2,6 @@
 
 ```diff
 ⊬ Hello there, I'm Bea
-
-@@east is up@@
-+ I'm currently studying angular and building my own projects
-- 24 years old
-! everybody's friend, loves cute stuff 
-# 📖 Programming languages, web development, service now
 ```
 
 <h1 align="center">﹔ ☽</h1>
